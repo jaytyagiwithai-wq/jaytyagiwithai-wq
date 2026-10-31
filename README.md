@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Jay Tyagi — AI products, backend systems, and developer infrastructure" width="100%" />
+  <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/a530e23/assets/profile-banner.svg" alt="Jay Tyagi — AI products, backend systems, and developer infrastructure" width="100%" />
 </p>
 
 <p align="center">
