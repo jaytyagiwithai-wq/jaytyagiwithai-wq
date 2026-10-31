@@ -16,19 +16,14 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-
-### I build systems that earn trust
-
-I turn ambitious product ideas into useful software: AI-native applications, dependable backends, and the operational layer around them. I care about the hard parts after the first demo: clear workflows, observable failures, safe automation, and a product people can actually use every day.
-
-**Right now:** building [Cognlay](https://cognlay.com), an outbound system that learns from real outcomes to help teams book better meetings.
-
-**How I work:** start with the real user workflow, make the system measurable, then keep tightening the product until it feels inevitable.
-
+    <td width="68%" valign="middle">
+      <h3>I build systems that earn trust</h3>
+      <p>I turn ambitious product ideas into useful software: AI-native applications, dependable backends, and the operational layer around them. I care about the hard parts after the first demo: clear workflows, observable failures, safe automation, and a product people can actually use every day.</p>
+      <p><strong>Right now:</strong> building <a href="https://cognlay.com">Cognlay</a>, an outbound system that learns from real outcomes to help teams book better meetings.</p>
+      <p><strong>How I work:</strong> start with the real user workflow, make the system measurable, then keep tightening the product until it feels inevitable.</p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/13626.gif" alt="Animated AI visual" width="270" />
+    <td width="32%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/13626.gif" alt="Animated AI visual" width="190" />
     </td>
   </tr>
 </table>
@@ -66,7 +61,7 @@ Shipping         > endless planning
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaytyagiwithai-wq&show_icons=true&hide_border=true&bg_color=0B1320&title_color=66E3C4&text_color=D7E2F0&icon_color=66E3C4" alt="GitHub activity" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaytyagiwithai-wq&theme=github_dark" alt="GitHub activity" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaytyagiwithai-wq&hide_border=true&background=0B1320&ring=66E3C4&fire=66E3C4&currStreakLabel=66E3C4&sideLabels=D7E2F0&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" height="165" />
 </p>
 
