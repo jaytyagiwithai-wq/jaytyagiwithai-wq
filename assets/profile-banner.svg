@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
-  <title id="title">Jay Tyagi — systems for the work behind the work</title>
-  <desc id="desc">A dark navy editorial banner with a grid, a highlighted system map, and an ImpactOS-inspired accent.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jay Tyagi — building reliable AI systems</title>
+  <desc id="desc">An animated dark product-engineering hero showing a subtle live system scan.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111b33"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8af0d1"/><stop offset="1" stop-color="#78a8ff"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a9bbd8" stroke-opacity=".09" stroke-width="1"/></pattern>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#101b31"/></linearGradient>
+    <linearGradient id="signal" x1="0" x2="1"><stop stop-color="#8cf1d2"/><stop offset="1" stop-color="#77a7ff"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b6cae7" fill-opacity=".16"/></pattern>
+    <linearGradient id="scan" x1="0" x2="1"><stop stop-color="#8cf1d2" stop-opacity="0"/><stop offset=".5" stop-color="#8cf1d2" stop-opacity=".58"/><stop offset="1" stop-color="#8cf1d2" stop-opacity="0"/></linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
   </defs>
-  <rect width="1280" height="430" rx="18" fill="url(#bg)"/><rect width="1280" height="430" rx="18" fill="url(#grid)"/>
-  <circle cx="1110" cy="80" r="250" fill="#315bca" fill-opacity=".11"/><circle cx="1030" cy="360" r="190" fill="#69dac3" fill-opacity=".07"/>
-  <g fill="none" stroke="#91a9cf" stroke-opacity=".36" stroke-width="1.5"><path d="M810 123H1020V178H1178"/><path d="M810 270H942V205H1083"/><path d="M942 205V337H1160"/></g>
-  <g filter="url(#glow)"><circle cx="1020" cy="178" r="7" fill="#8af0d1"/><circle cx="942" cy="205" r="7" fill="#78a8ff"/><circle cx="1083" cy="205" r="7" fill="#8af0d1"/></g>
-  <g fill="#0c192b" stroke="#90a7c7" stroke-opacity=".4"><rect x="1130" y="151" width="99" height="54" rx="8"/><rect x="1112" y="310" width="116" height="54" rx="8"/><rect x="765" y="95" width="101" height="54" rx="8"/></g>
-  <g font-family="Arial, Helvetica, sans-serif" fill="#b8cae5" font-size="11" letter-spacing="1.4"><text x="1144" y="181">CHANGE</text><text x="1127" y="340">EVIDENCE</text><text x="780" y="125">SYSTEM</text></g>
-  <rect x="68" y="72" width="48" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="68" y="126" fill="#e9f1ff" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.6">Jay Tyagi</text>
-  <text x="68" y="169" fill="#a9bbd8" font-family="Arial, Helvetica, sans-serif" font-size="18">AI products · backend systems · developer infrastructure</text>
-  <line x1="68" y1="210" x2="532" y2="210" stroke="#91a9cf" stroke-opacity=".33"/>
-  <text x="68" y="254" fill="#f3f7ff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">I build systems for the work behind the work.</text>
-  <text x="68" y="290" fill="#a9bbd8" font-family="Arial, Helvetica, sans-serif" font-size="16">Traceable AI, reliable workflows, and tools people can inspect.</text>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2"><rect x="68" y="332" width="116" height="31" rx="15.5" fill="#18304a" stroke="#8af0d1" stroke-opacity=".5"/><text x="89" y="353" fill="#9cf3d8">COGNLAY</text><rect x="196" y="332" width="126" height="31" rx="15.5" fill="#18304a" stroke="#78a8ff" stroke-opacity=".5"/><text x="216" y="353" fill="#a9c5ff">IMPACTOS</text></g>
+  <rect width="1280" height="360" rx="16" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="16" fill="url(#dots)"/>
+  <rect x="64" y="51" width="1152" height="258" rx="12" fill="#0c1424" fill-opacity=".78" stroke="#7f9cc6" stroke-opacity=".28"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.4">
+    <circle cx="91" cy="81" r="5" fill="#8cf1d2"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="107" y="85" fill="#a9bedf">JAY.TYAGI / SYSTEMS LAB</text><text x="1064" y="85" fill="#7890b3">STATUS: BUILDING</text>
+  </g>
+  <line x1="90" y1="108" x2="1190" y2="108" stroke="#819ac1" stroke-opacity=".25"/>
+  <g transform="translate(92 148)" font-family="Arial, Helvetica, sans-serif"><text fill="#f0f5ff" font-size="44" font-weight="700" letter-spacing="-1.2">Building reliable AI systems.</text><text y="40" fill="#aabbd6" font-size="18">Products, infrastructure, and tools that make complex work inspectable.</text></g>
+  <g transform="translate(94 253)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"><text fill="#8cf1d2">›</text><text x="19" fill="#d7e4f8">now:</text><text x="61" fill="#aebfdb">Cognlay</text><text x="127" fill="#6f87aa">/</text><text x="145" fill="#d7e4f8">exploring:</text><text x="231" fill="#aebfdb">multi-agent systems</text><rect x="386" y="-12" width="8" height="16" fill="#8cf1d2"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect></g>
+  <g transform="translate(877 153)"><path d="M0 62H62L83 20L121 96L153 46L188 62H291" fill="none" stroke="#91a9ca" stroke-opacity=".35" stroke-width="2"/><path d="M0 62H62L83 20L121 96L153 46L188 62H291" fill="none" stroke="url(#signal)" stroke-width="2" stroke-dasharray="24 310" stroke-dashoffset="334"><animate attributeName="stroke-dashoffset" from="334" to="-24" dur="3.2s" repeatCount="indefinite"/></path><circle cx="153" cy="46" r="13" fill="#8cf1d2" fill-opacity=".13" filter="url(#soft)"><animate attributeName="opacity" values=".16;.75;.16" dur="2s" repeatCount="indefinite"/></circle><circle cx="153" cy="46" r="4" fill="#8cf1d2"/><g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#91a7c7"><text x="0" y="130">CHANGE</text><text x="102" y="130">REASON</text><text x="220" y="130">EVIDENCE</text></g></g>
+  <rect x="64" y="298" width="1152" height="2" fill="url(#scan)" opacity=".72"><animate attributeName="y" values="298;110;298" dur="5.5s" repeatCount="indefinite"/></rect>
 </svg>
