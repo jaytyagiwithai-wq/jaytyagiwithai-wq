@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/1936.gif" alt="Animated developer workspace" width="860" />
+  <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/13626.gif" alt="Animated AI visual" width="500" />
 </p>
 
 <h1 align="center">Jay Tyagi</h1>
@@ -23,7 +23,7 @@
       <p><strong>How I work:</strong> start with the real user workflow, make the system measurable, then keep tightening the product until it feels inevitable.</p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/13626.gif" alt="Animated AI visual" width="190" />
+      <img src="https://raw.githubusercontent.com/jaytyagiwithai-wq/jaytyagiwithai-wq/main/assets/1936.gif" alt="Animated developer workspace" width="300" />
     </td>
   </tr>
 </table>
